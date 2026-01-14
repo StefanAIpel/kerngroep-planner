@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 
-const FIREBASE_URL = 'https://YOUR-PROJECT.firebaseio.com';
+const FIREBASE_URL = 'https://straatambassadeurs-planner-default-rtdb.europe-west1.firebasedatabase.app';
 const APP_URL = 'https://kerngroep.netlify.app';
 
 const DEFAULT_PARTICIPANTS = [
